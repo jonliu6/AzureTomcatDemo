@@ -10,7 +10,7 @@
     </head>
 
     <body>
-        <% out.println("Hello, Tomcat!"); %>
+        Hello, world!
     </body>
 
 </html>
